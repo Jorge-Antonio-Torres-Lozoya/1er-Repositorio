@@ -1,0 +1,36 @@
+body{
+  
+    background-color:beige
+    
+}
+h1:hover{
+    color:blue;
+    
+}
+h1{
+    color: rgb(45, 95, 95);
+}
+h2:hover{
+    color: rgba(44, 54, 71, 0.829);
+}
+span.hola{
+    color: rgb(10, 3, 17);
+}
+h3{color: brown;
+}
+h4::first-letter,h5{
+    color: rgb(247, 3, 3);
+
+}
+h5{
+    font-family: cursive;
+    font-size: 15px;
+   
+}
+ul{
+    font-style: italic;
+}
+h6{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
